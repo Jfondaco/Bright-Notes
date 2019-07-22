@@ -1,0 +1,21 @@
+/* 
+.libraryBackground{
+    background-image: url(" + require("assets/img/tdoaygc.png") + ")
+    height:100%;
+    width:100%;
+    background-repeat: no-repeat
+} */
+
+body{
+    background: url('../img/library.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.libraryContainer{
+    position: relative;
+    height:500px;
+    width:500px;
+    margin: auto 0;
+    color:white;
+}
